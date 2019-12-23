@@ -1,0 +1,88 @@
+## 接口描述
+请求路径：`https://map-open-platform.didiglobal.com/api/v1/eta/route`
+
+请求方法：GET
+## 输入参数
+|参数名称 | 必选 | 类型 | 描述|
+|--------|-----|-----|-----|
+| key | 是 | string | 应用key |
+| sig | 否 | string | 签名 |
+|route| 是 | string  |路线坐标点串：lng,lat|lng,lat|…。经纬度小数点后不超过6位。|
+|route_length | 是 | string|路线长度，系统默认最大值100000（可配置） |
+|  departure_time | 否 | string |指定出发时间，UNIX时间戳，只能是当前时间和未来7天内的时间。|
+
+
+## 输出参数
+|参数名称  | 类型 | 描述|
+|--------|-----|-----|
+|status | int  |状态码 |
+|info|string|状态说明	|
+|result | [Result](#Result)|请求返回数据 |
+
+<span id="Result"></span>
+Result：
+
+|参数名称  | 类型 | 描述 |
+|--------|-----|-----|
+|routes | array<[Routes](#Routes)> | 路线json数组|
+
+<span id="Routes"></span>
+Routes：
+
+|参数名称  | 类型 | 描述 |
+|--------|-----|-----|
+|routeid   | string  |路线ID     |
+|strategy   | string  |策略     |
+|toll  | float  |此导航方案道路收费金额，单位：元 |
+|restriction  | string  |限行结果：0表示无限行；1打破避让轮渡；2打破避让收费；3打破避让高速；4打破车辆限行；5打破区域避让；6打破道路避让；7打破link避让 |
+|toll_distance  | float  |此导航方案道路收费距离长度，单位：米    |
+|traffic_lights  | string    |此路线红绿灯个数     |
+|distance  | int    |距离，单位米     |
+|duration  | int    |时间，单位分     |
+|legs   | array<[Legs](#Legs)>  |起点到第一个途径点；途径点之间；最后一个途径点到终点     |
+
+<span id="Legs"></span>
+Legs:
+
+|参数名称  | 类型 | 描述 |
+|--------|-----|-----|
+|distance   | string  |路径距离，单位：米   |
+|duration     | int64  |预计行驶时间，单位：秒 |
+|outline   | string  | 路段坐标点串，lng,lat;lng,lat;...   |
+
+
+## 错误码
+[错误码](/static/docs-content/apimarket-docs/错误码.md#errorCode)
+
+## 示例
+
+请求：
+``` shell
+curl -X GET \
+  'https://map-open-platform.didiglobal.com/api/v1/directions/dynamiceta?key=mykey&routeid=7f7ba06a35a911a02cb53a2f37ce71c3&location=116.593416,40.088262&destination=116.331254,40.061761' \
+  -H 'Content-Type: application/json'
+```
+输出：
+``` json
+{
+	"status": 0,
+	"info": "OK",
+	"result": {
+		"routes": [{
+			"routeid": "7f7ba06a35a911a02cb53a2f37ce71c3",
+			"strategy": "",
+			"toll": "",
+			"toll_distance": "",
+			"restriction": "",
+			"traffic_lights": "",
+			"distance": 33406,
+			"duration": 3050,
+			"legs": [{
+				"distance": 33406,
+				"duration": 3050,
+				"outline": "116.5934,40.08726;116.59319,40.08723;...."
+			}]
+		}]
+	}
+}
+```
