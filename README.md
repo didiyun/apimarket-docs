@@ -1,5 +1,5 @@
 # apimarket-docs
-存放api中心的文档相关内容
+存放api市场的相关文档
 
 服务： services下根据不同的API服务创建目录
 
