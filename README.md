@@ -8,11 +8,10 @@
 书写规范： 一、SUMMARY.md
 
 * [一级目录] （对应文章路径）
-    
-    * [二级目录] (对应文章路径)
-        
+  * [二级目录] (对应文章路径)
+      
         * [三级目录] (对应文章路径)
-[注]：每级目录前*号以1个tab键分割
+    [注]：每级目录前*号以1个tab键分割
 
 二、文章
 
@@ -24,4 +23,4 @@
 
 跳转： 在地址前追加文件路径/static/docs-content/
 
-   eg:  JobResult: (/static/docs-content/service/ditu/地图编码.md#简介)
+   eg:  JobResult: (/static/docs-content/services/地图开放平台/地点/地图编码.md#简介)
