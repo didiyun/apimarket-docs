@@ -23,4 +23,4 @@
 
 跳转： 在地址前追加文件路径/static/docs-content/
 
-   eg:  JobResult: (/static/docs-content/services/地图开放平台/地点/地图编码.md#简介)
+   eg:  JobResult: (/static/docs-content/services/地图/地点/地图编码.md#简介)
