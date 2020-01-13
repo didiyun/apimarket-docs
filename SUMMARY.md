@@ -1,5 +1,5 @@
 * [API云市场](/static/apimarket-docs/services/简介.md)
-    * 快速入门
+    * [快速入门](/static/apimarket-docs/services/快速入门/调用方式.md)
         * [调用方式](/static/apimarket-docs/services/快速入门/调用方式.md)
         * [鉴权方式](/static/apimarket-docs/services/快速入门/鉴权方式.md)
         * [返回结果](/static/apimarket-docs/services/快速入门/返回结果.md)
