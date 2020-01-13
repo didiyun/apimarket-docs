@@ -13,7 +13,7 @@
             * [沿途搜索](/static/apimarket-docs/services/地图/地点/沿途搜索.md)
             * [自动补全](/static/apimarket-docs/services/地图/地点/自动补全.md)
             * [详情查询](/static/apimarket-docs/services/地图/地点/详情查询.md)
-            * [行政区划](/static/apimarket-docs/services/地图/地点/行政区域.md) 
+            * [行政区划](/static/apimarket-docs/services/地图/地点/行政区划.md) 
         * [路线](/static/apimarket-docs/services/地图/路线/简介.md)
             * [就近绑路](/static/apimarket-docs/services/地图/路线/就近绑路.md)
             * [轨迹绑路](/static/apimarket-docs/services/地图/路线/轨迹绑路.md)
