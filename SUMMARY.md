@@ -10,7 +10,6 @@
             * [逆地理编码](/static/apimarket-docs/services/地图/地点/逆地理编码.md)
             * [周边搜索](/static/apimarket-docs/services/地图/地点/周边搜索.md)
             * [关键字搜索](/static/apimarket-docs/services/地图/地点/关键字搜索.md)
-            * [沿途搜索](/static/apimarket-docs/services/地图/地点/沿途搜索.md)
             * [自动补全](/static/apimarket-docs/services/地图/地点/自动补全.md)
             * [详情查询](/static/apimarket-docs/services/地图/地点/详情查询.md)
             * [行政区划](/static/apimarket-docs/services/地图/地点/行政区划.md) 
