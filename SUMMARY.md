@@ -20,7 +20,6 @@
             * [距离矩阵](/static/apimarket-docs/services/地图/路线/距离矩阵.md)
         * [错误码](/static/apimarket-docs/services/地图/错误码.md)
     * [AI](/static/apimarket-docs/services/AI/简介.md)
-        * [AI](/static/apimarket-docs/services/AI/AI/简介.md)
         * [人脸识别](/static/apimarket-docs/services/AI/人脸识别/简介.md)
             * [人脸验证](/static/apimarket-docs/services/AI/人脸识别/人脸验证.md)
             * [人脸活体检测](/static/apimarket-docs/services/AI/人脸识别/人脸活体检测.md)
