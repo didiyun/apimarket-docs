@@ -19,7 +19,17 @@
 | [轨迹绑路](/static/apimarket-docs/services/地图/路线/轨迹绑路.md) | 根据行驶轨迹进行绑路 |
 | [路线规划](/static/apimarket-docs/services/地图/路线/路线规划.md) | 驾车路线规划 |
 | [距离矩阵](/static/apimarket-docs/services/地图/路线/距离矩阵.md) | 根据多个起点和终点进行多对多的路线距离计算 |
-## AI.
+
+## AI.人脸识别相关接口
 |接口名称|接口功能|
 |-------|-------|
-|||
+| [人脸验证](/static/apimarket-docs/services/AI/人脸识别/人脸验证.md) | 人脸验证 |
+| [人脸活体检测](/static/apimarket-docs/services/AI/人脸识别/人脸活体检测.md) | 人脸活体检测 |
+
+## AI.印刷文字识别相关接口
+|接口名称|接口功能|
+|-------|-------|
+| [车辆号牌](/static/apimarket-docs/services/AI/印刷文字识别/车辆号牌.md) | 车辆号牌 |
+| [国内身份证](/static/apimarket-docs/services/AI/印刷文字识别/国内身份证.md) | 国内身份证 |
+| [国内驾驶证](/static/apimarket-docs/services/AI/印刷文字识别/国内驾驶证.md) | 国内驾驶证 |
+| [国内行驶证](/static/apimarket-docs/services/AI/印刷文字识别/国内行驶证.md) | 国内行驶证 |
