@@ -33,3 +33,8 @@
 | [国内身份证](/static/apimarket-docs/services/AI/印刷文字识别/国内身份证.md) | 国内身份证 |
 | [国内驾驶证](/static/apimarket-docs/services/AI/印刷文字识别/国内驾驶证.md) | 国内驾驶证 |
 | [国内行驶证](/static/apimarket-docs/services/AI/印刷文字识别/国内行驶证.md) | 国内行驶证 |
+
+## AI.口罩人脸识别相关接口
+|接口名称|接口功能|
+|-------|-------|
+| [佩戴口罩人脸识别](/static/apimarket-docs/services/AI/口罩人脸识别/佩戴口罩人脸识别.md) | 佩戴口罩人脸识别 |
