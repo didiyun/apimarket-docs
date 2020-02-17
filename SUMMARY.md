@@ -29,3 +29,6 @@
             * [国内驾驶证](/static/apimarket-docs/services/AI/印刷文字识别/国内驾驶证.md)
             * [国内行驶证](/static/apimarket-docs/services/AI/印刷文字识别/国内行驶证.md)
             * [错误码](/static/apimarket-docs/services/AI/印刷文字识别/错误码.md)
+        * [口罩人脸识别](/static/apimarket-docs/services/AI/口罩人脸识别/简介.md)
+            * [佩戴口罩人脸识别](/static/apimarket-docs/services/AI/口罩人脸识别/佩戴口罩人脸识别.md)
+            * [错误码](/static/apimarket-docs/services/AI/口罩人脸识别/错误码.md)
