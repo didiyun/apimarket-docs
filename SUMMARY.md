@@ -23,6 +23,7 @@
         * [人脸识别](/static/apimarket-docs/services/AI/人脸识别/简介.md)
             * [人脸验证](/static/apimarket-docs/services/AI/人脸识别/人脸验证.md)
             * [人脸活体检测](/static/apimarket-docs/services/AI/人脸识别/人脸活体检测.md)
+            * [错误码](/static/apimarket-docs/services/AI/人脸识别/错误码.md)
         * [印刷文字识别](/static/apimarket-docs/services/AI/印刷文字识别/简介.md)
             * [车辆号牌](/static/apimarket-docs/services/AI/印刷文字识别/车辆号牌.md)
             * [国内身份证](/static/apimarket-docs/services/AI/印刷文字识别/国内身份证.md)
