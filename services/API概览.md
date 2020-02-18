@@ -37,4 +37,5 @@
 ## AI.口罩人脸识别相关接口
 |接口名称|接口功能|
 |-------|-------|
-| [佩戴口罩人脸识别](/static/apimarket-docs/services/AI/口罩人脸识别/佩戴口罩人脸识别.md) | 佩戴口罩人脸识别 |
+| [口罩人脸检测](/static/apimarket-docs/services/AI/口罩人脸识别/口罩人脸检测.md) | 口罩人脸检测 |
+| [口罩人脸验证](/static/apimarket-docs/services/AI/口罩人脸识别/口罩人脸验证.md) | 口罩人脸验证 |
