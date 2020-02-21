@@ -35,7 +35,7 @@
             * [口罩人脸验证](/static/apimarket-docs/services/AI/口罩人脸识别/口罩人脸验证.md)
             * [错误码](/static/apimarket-docs/services/AI/口罩人脸识别/错误码.md)
         * [口罩佩戴识别](/static/apimarket-docs/services/AI/口罩佩戴识别/简介.md)
-            * [车载司乘口罩识别.md](/static/apimarket-docs/services/AI/口罩佩戴识别/车载司乘口罩识别.md)
-            * [通用人脸口罩识别.md](/static/apimarket-docs/services/AI/口罩佩戴识别/通用人脸口罩识别.md)
+            * [车载司乘口罩识别](/static/apimarket-docs/services/AI/口罩佩戴识别/车载司乘口罩识别.md)
+            * [通用人脸口罩识别](/static/apimarket-docs/services/AI/口罩佩戴识别/通用人脸口罩识别.md)
             
             
