@@ -37,5 +37,5 @@
         * [口罩佩戴识别](/static/apimarket-docs/services/AI/口罩佩戴识别/简介.md)
             * [车载司乘口罩识别](/static/apimarket-docs/services/AI/口罩佩戴识别/车载司乘口罩识别.md)
             * [通用人脸口罩识别](/static/apimarket-docs/services/AI/口罩佩戴识别/通用人脸口罩识别.md)
-            
-            
+        * [机器翻译](/static/apimarket-docs/services/AI/机器翻译/简介.md)
+            * [机器翻译](/static/apimarket-docs/services/AI/机器翻译/机器翻译.md)
