@@ -39,3 +39,4 @@
             * [通用人脸口罩识别](/static/apimarket-docs/services/AI/口罩佩戴识别/通用人脸口罩识别.md)
         * [机器翻译](/static/apimarket-docs/services/AI/机器翻译/简介.md)
             * [机器翻译](/static/apimarket-docs/services/AI/机器翻译/机器翻译.md)
+            * [语言检测](/static/apimarket-docs/services/AI/机器翻译/语言检测.md)
