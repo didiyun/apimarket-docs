@@ -37,5 +37,11 @@
         * [口罩佩戴识别](/static/apimarket-docs/services/AI/口罩佩戴识别/简介.md)
             * [车载司乘口罩识别](/static/apimarket-docs/services/AI/口罩佩戴识别/车载司乘口罩识别.md)
             * [通用人脸口罩识别](/static/apimarket-docs/services/AI/口罩佩戴识别/通用人脸口罩识别.md)
-            
-            
+        * [机器翻译](/static/apimarket-docs/services/AI/机器翻译/简介.md)
+            * [机器翻译](/static/apimarket-docs/services/AI/机器翻译/机器翻译.md)
+            * [语言检测](/static/apimarket-docs/services/AI/机器翻译/语言检测.md)
+        * [自然语言处理基础技术](/static/apimarket-docs/services/AI/自然语言处理基础技术/简介.md)
+            * [自然语言处理基础技术](/static/apimarket-docs/services/AI/自然语言处理基础技术/中文分词.md)
+            * [自然语言处理基础技术](/static/apimarket-docs/services/AI/自然语言处理基础技术/命名实体识别.md)
+            * [自然语言处理基础技术](/static/apimarket-docs/services/AI/自然语言处理基础技术/词性标注.md)
+            * [自然语言处理基础技术](/static/apimarket-docs/services/AI/自然语言处理基础技术/情感识别.md)
