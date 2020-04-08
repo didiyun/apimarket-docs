@@ -45,3 +45,4 @@
             * [命名实体识别](/static/apimarket-docs/services/AI/自然语言处理基础技术/命名实体识别.md)
             * [词性标注](/static/apimarket-docs/services/AI/自然语言处理基础技术/词性标注.md)
             * [情感识别](/static/apimarket-docs/services/AI/自然语言处理基础技术/情感识别.md)
+            * [词向量](/static/apimarket-docs/services/AI/自然语言处理基础技术/词向量.md)
