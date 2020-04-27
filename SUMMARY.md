@@ -41,6 +41,7 @@
             * [机器翻译](/static/apimarket-docs/services/AI/机器翻译/机器翻译.md)
             * [语言检测](/static/apimarket-docs/services/AI/机器翻译/语言检测.md)
             * [FAQ](/static/apimarket-docs/services/AI/机器翻译/FAQ.md)
+            * [试用须知](/static/apimarket-docs/services/AI/机器翻译/试用须知.md)
         * [自然语言处理基础技术](/static/apimarket-docs/services/AI/自然语言处理基础技术/简介.md)
             * [中文分词](/static/apimarket-docs/services/AI/自然语言处理基础技术/中文分词.md)
             * [命名实体识别](/static/apimarket-docs/services/AI/自然语言处理基础技术/命名实体识别.md)
@@ -48,3 +49,4 @@
             * [情感识别](/static/apimarket-docs/services/AI/自然语言处理基础技术/情感识别.md)
             * [词向量](/static/apimarket-docs/services/AI/自然语言处理基础技术/词向量.md)
             * [FAQ](/static/apimarket-docs/services/AI/自然语言处理基础技术/FAQ.md)
+            * [试用须知](/static/apimarket-docs/services/AI/自然语言处理基础技术/试用须知.md)
