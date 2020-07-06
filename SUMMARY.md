@@ -50,3 +50,6 @@
             * [词向量](/static/apimarket-docs/services/AI/自然语言处理基础技术/词向量.md)
             * [FAQ](/static/apimarket-docs/services/AI/自然语言处理基础技术/FAQ.md)
             * [试用须知](/static/apimarket-docs/services/AI/自然语言处理基础技术/试用须知.md)
+        * [图像超分辨](/static/apimarket-docs/services/AI/图像超分辨/简介.md)
+            * [使用说明](/static/apimarket-docs/services/AI/图像超分辨/使用说明.md)
+            * [FAQ](/static/apimarket-docs/services/AI/图像超分辨/FAQ.md)
