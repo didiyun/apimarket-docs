@@ -53,3 +53,6 @@
         * [图像超分辨](/static/apimarket-docs/services/AI/图像超分辨/简介.md)
             * [使用说明](/static/apimarket-docs/services/AI/图像超分辨/使用说明.md)
             * [FAQ](/static/apimarket-docs/services/AI/图像超分辨/FAQ.md)
+        * [视频监控目标检测技术](/static/apimarket-docs/services/AI/视频监控目标检测技术/简介.md)
+            * [工地安全帽检测](/static/apimarket-docs/services/AI/视频监控目标检测技术/工地安全帽检测.md)
+            * [行人检测](/static/apimarket-docs/services/AI/视频监控目标检测技术/行人检测.md)
