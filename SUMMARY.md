@@ -27,6 +27,7 @@
             * [指定线路实时路况](/static/apimarket-docs/services/地图/路线/指定线路实时路况.md)
             * [圆形区域实时路况](/static/apimarket-docs/services/地图/路线/圆形区域实时路况.md)
             * [多边形区域实时路况](/static/apimarket-docs/services/地图/路线/多边形区域实时路况.md)
+            * [就近路线路况](/static/apimarket-docs/services/地图/路线/就近路线路况.md)
         * [错误码](/static/apimarket-docs/services/地图/错误码.md)
     * [AI](/static/apimarket-docs/services/AI/简介.md)
         * [人脸识别](/static/apimarket-docs/services/AI/人脸识别/简介.md)
