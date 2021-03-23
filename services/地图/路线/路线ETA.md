@@ -1,11 +1,19 @@
 ## 接口描述
-请求路径：`https://mapapi-routes.apigw-gz.didiyunapi.com/api/v1/routeeta`
+请求路径：`https://mapapi-routes.apigw-gz.didiyunapi.com/api/v1/eta/route`
 
-请求方法：GET
+请求方法：GET Content-Type=application/json
 ## 输入参数
-|参数名称 | 必选 | 默认值 | 描述|
-|--------|-----|-----|-----|
-|route| 是 | 无 |路线坐标点串：lng,lat&#124;lng,lat&#124;…。经纬度小数点后建议不超过6位。至少输入3个点；|
+|参数名称 | 类型 | 必选 | 默认值 | 描述|
+|--------|-----|-----|-----|-----|
+|route | array<[Route](#Route)> | 是 | 无 |路线坐标点串，至少输入3个点，最多支持2000个点；|
+
+<span id="Route"></span>
+Route:
+
+|参数名称  | 类型 | 必选| 默认值 |  描述 |
+|--------|-----|-----|-----|-----|
+|longitude  | float  |是 | 无 |经度，建议小数点不超过6位 |
+|latitude   | float  |是 | 无 |纬度，建议小数点不超过6位 |
 
 ## 输出参数
 |参数名称  | 类型 | 描述|
@@ -29,9 +37,29 @@ Result：
 
 请求：
 ``` shell
-curl -X GET \
-  'https://mapapi-routes.apigw-gz.didiyunapi.com/api/v1/routeeta?route=116.358529,39.954762|116.359591,39.954343|116.360804,39.954408'\
-  --header 'Authorization: AppCode XXX'
+curl -X GET 'https://mapapi-routes.apigw-gz.didiyunapi.com/api/v1/eta/route' \
+  --header 'Authorization: AppCode XXX' \
+  --header 'Content-Type: application/json' \
+  --data '{
+    "route":[
+        {
+            "longitude":116.24664,
+            "latitude":40.07198
+        },
+        {
+            "longitude":116.24618,
+            "latitude":40.07291
+        },
+        {
+            "longitude":116.24673,
+            "latitude":40.07181
+        },
+        {
+            "longitude":116.24664,
+            "latitude":40.07198
+        }
+    ]
+}'
 ```
 输出：
 ``` json
