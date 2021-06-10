@@ -1,0 +1,14 @@
+com.didi.open.api
+com.didi.open.location.api
+com.didi.open.location.api.model
+com.didi.open.map.api
+com.didi.open.map.api.model
+com.didi.open.map.api.model.animation
+com.didi.open.map.api.model.throwable
+com.didi.open.navigation.api
+com.didi.open.navigation.api.callback
+com.didi.open.navigation.api.data
+com.didi.open.search.api
+com.didi.open.search.api.model.base
+com.didi.open.search.api.model.result
+com.didi.open.util
