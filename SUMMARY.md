@@ -5,7 +5,7 @@
         * [返回结果](/static/apimarket-docs/services/快速入门/返回结果.md)
     * [地图](/static/apimarket-docs/services/地图/简介.md)
         * [SDK](/static/apimarket-docs/services/地图/SDK/简介.md)
-            * [SDK API文档](/static/apimarket-docs/services/地图/SDK/dopensdk_doc/index.html)
+            * [SDK API文档](/static/apimarket-docs/services/地图/SDK/API文档/API文档.md)
             * [SDK 使用文档](/static/apimarket-docs/services/地图/SDK/使用文档/使用文档.md)
                 * [SDK接入](/static/apimarket-docs/services/地图/SDK/使用文档/SDK接入说明.md)
                 * [显示地图](/static/apimarket-docs/services/地图/SDK/使用文档/显示地图.md)
