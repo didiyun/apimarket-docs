@@ -1,8 +1,8 @@
 ## 以下分别包括 API文档、API DEMO、以及SDK下载地址
 
-### 1.[API文档](http://cooper.didichuxing.com/shares/IpFS1SrsofOI)
+### 1.[API文档](http://img-hxy021.didistatic.com/static/business/do1_x9fxKetMaWUTlkuWbHNt)
 
-### 2.[API DEMO](https://cooper.didichuxing.com/shares/wITZ7S3v3BiP)
+### 2.[API DEMO](http://img-hxy021.didistatic.com/static/business/do1_Els9Ka1i2DvuGK2XfSnp)
 
-### 3.[SDK 下载地址](http://cooper.didichuxing.com/shares/HrbB5nPofOdW)
+### 3.[SDK 下载地址](http://img-hxy021.didistatic.com/static/business/do1_LzIHHSgzYhMl5An8MAim)
 
