@@ -10,6 +10,7 @@
                 * [SDK接入](/static/apimarket-docs/services/地图/SDK/使用文档/SDK接入说明.md)
                 * [显示地图](/static/apimarket-docs/services/地图/SDK/使用文档/显示地图.md)
                 * [显示定位](/static/apimarket-docs/services/地图/SDK/使用文档/显示定位.md)
+                * [导航](/static/apimarket-docs/services/地图/SDK/使用文档/导航.md)
         * [地图](/static/apimarket-docs/services/地图/地图/简介.md)
         * [地点](/static/apimarket-docs/services/地图/地点/简介.md)
             * [地理编码](/static/apimarket-docs/services/地图/地点/地理编码.md)
